@@ -1,4 +1,4 @@
-# Learning compromise.js
+# Learning compromise.js (for NLP)
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
